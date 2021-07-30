@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+<h1>My name is Nuriye </h1>
 
 <!--
 **nuriyealp/nuriyealp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
