@@ -2,6 +2,10 @@
 
 <h1>My name is Nuriye </h1>
 
+[![GitHub nuriyealp](https://img.shields.io/github/followers/nuriyealp?label=follow&style=social)](https://github.com/nuriyealp)
+![](https://visitor-badge.glitch.me/badge?page_id=nuriyealp)
+
+
 <!--
 **nuriyealp/nuriyealp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
