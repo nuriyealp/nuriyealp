@@ -5,6 +5,9 @@
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning HTML, CSS.
 
+<a href="https://www.freecodecamp.org/nuriyealp">Check out my freeCodeCamp acount</a>
+
+
 [![GitHub nuriyealp](https://img.shields.io/github/followers/nuriyealp?label=follow&style=social)](https://github.com/nuriyealp)
 ![](https://visitor-badge.glitch.me/badge?page_id=nuriyealp)
 
