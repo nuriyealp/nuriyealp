@@ -4,6 +4,10 @@
 
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning HTML, CSS.
+
+<img alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<img inline-block;" alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+
 - 😄 Pronouns: She/her 
 
 
