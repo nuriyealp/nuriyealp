@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning HTML, CSS.
+- 😄 Pronouns: She/her 
+
 
 <a href="https://www.freecodecamp.org/nuriyealp">Check out my freeCodeCamp acount</a>
 
