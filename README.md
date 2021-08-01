@@ -10,7 +10,7 @@
   <img alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </p>
                                                                                                                              
-- 😄 Pronouns: She/her 
+- 👩‍💻 Pronouns: She/her 
 
 
 <a href="https://www.freecodecamp.org/nuriyealp">Check out my freeCodeCamp acount</a>
