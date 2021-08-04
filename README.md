@@ -16,9 +16,12 @@
 
 
 <a href="https://www.freecodecamp.org/nuriyealp">Check out my freeCodeCamp acount</a>
+
 <h3> Portfolio</h3>
 
 > *pending...*
+
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 [![GitHub nuriyealp](https://img.shields.io/github/followers/nuriyealp?label=follow&style=social)](https://github.com/nuriyealp)
 ![](https://visitor-badge.glitch.me/badge?page_id=nuriyealp)
