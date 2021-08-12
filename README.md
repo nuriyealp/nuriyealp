@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi there 👋 </h2>
 
-<h1 align="center">My name is Nuriye </h1>
+<h1>My name is Nuriye </h1>
 
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning **HTML, CSS.**
