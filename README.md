@@ -15,7 +15,7 @@
 - 📫 How to reach me: nuriyealp66@gmail.com
 
 
-<a href="https://www.freecodecamp.org/nuriyealp">Check out my freeCodeCamp acount</a>
+<a href="https://www.freecodecamp.org/nuriyealp" target="_blank">Check out my freeCodeCamp acount</a>
 
 <h3> Portfolio</h3>
 
