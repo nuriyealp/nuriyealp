@@ -4,7 +4,7 @@
 <h1>My name is Nuriye </h1>
 
 - 🔭 I’m currently working on my portfolio.
-- 🌱 I’m currently learning **HTML, CSS.**
+- 🌱 I’m currently learning **HTML, CSS, and JavaScript**
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
