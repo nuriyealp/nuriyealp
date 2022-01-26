@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi there 👋 </h2>
+<h2>Hi there 👋 </h2>
 
 <h1>My name is Nuriye </h1>
 
