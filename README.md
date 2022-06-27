@@ -22,7 +22,7 @@
 
 > *pending...*
 
-<img width="240px" src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" />
+<img width="240" src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" />
 
 [![GitHub nuriyealp](https://img.shields.io/github/followers/nuriyealp?label=follow&style=social)](https://github.com/nuriyealp)
 ![](https://visitor-badge.glitch.me/badge?page_id=nuriyealp)
