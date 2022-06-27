@@ -3,8 +3,9 @@
 
 <h1>My name is Nuriye </h1>
 
-- 🔭 I’m currently working on my portfolio.
-- 🌱 I’m currently learning **HTML, CSS, and JavaScript**
+- 🔭 I’m currently working on my projects.
+- 🌱 I’m currently learning **React and JavaScript**
+- Visit my portfolio at <a href="https://nuriyealp.github.io/portfolio/" target="_blank">Portfolio</a>
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -17,10 +18,6 @@
 
 
 <a href="https://www.freecodecamp.org/nuriyealp" target="_blank">Check out my freeCodeCamp acount</a>
-
-<h3> Portfolio</h3>
-
-> *pending...*
 
 <img width="240" src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" />
 
